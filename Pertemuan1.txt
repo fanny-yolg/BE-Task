@@ -1,0 +1,6 @@
+SUMMARY for Today Class:
+1.	Back-end is  a foundation of a program, consist of database of program.
+2.	API controls front-end and database. 
+3.	We need to install Git Hub and NodeJs for back-end class.
+4.	Terminal is a place to put a data or display a data. The example of terminal is command promt for windows.
+5.	GIT is a version-control that can be used to tracking who changed or what was changed in our code.

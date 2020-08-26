@@ -1,0 +1,17 @@
+Task - Day 2 (Back End - GA)
+
+a. Summary for day 2 class
+1. GIT is a version control which is a source code management
+2. Make a github and gitlab account from github.com and gitlab.com
+3. Work with Git Bash from lokal folder or gitlab
+4. Send file from lokal to gitlab using gitbash
+5. Command to send file are git add, git commit, and git push origin master
+6. check the folder status using git status with git bash
+
+b. Theory
+1. GIT is a version control which is a source code management
+2.1 git init is a command that describe a git repo at our folder
+2.2 git remote add origin <link_name> is used to connect our repo at git with our local repo/folder
+2.3 git add <file_name> is a command to send a file to gitlab but it doesn't arrive at git until we push it
+2.4 git commit -m "<message_name>" is a message to send the repo to git
+2.5 git push origin master is used to send the repo to git
